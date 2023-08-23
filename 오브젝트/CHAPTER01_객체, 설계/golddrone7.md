@@ -21,7 +21,7 @@
 
 ## 토론 주제
 
-<details open>
+<details>
     <summary>결합도를 낮추는 방법은 무엇인가? </summary>
     <ul>
         <li>결합도가 높은 코드는 비슷한 기능을 하는 클래스들이 따로 분리된 것 </li>
