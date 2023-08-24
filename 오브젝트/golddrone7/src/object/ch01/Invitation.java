@@ -1,4 +1,4 @@
-package golddrone.object.ch01;
+package golddrone.object.ch01.ch01;
 
 import java.time.LocalDateTime;
 
