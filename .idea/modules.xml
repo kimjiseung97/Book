@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Book.iml" filepath="$PROJECT_DIR$/.idea/Book.iml" />
       <module fileurl="file://$PROJECT_DIR$/오브젝트/golddrone7/golddrone7.iml" filepath="$PROJECT_DIR$/오브젝트/golddrone7/golddrone7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/오브젝트/jefeel/jefeel.iml" filepath="$PROJECT_DIR$/오브젝트/jefeel/jefeel.iml" />
       <module fileurl="file://$PROJECT_DIR$/오브젝트/jhlee9462/jhlee9462.iml" filepath="$PROJECT_DIR$/오브젝트/jhlee9462/jhlee9462.iml" />
       <module fileurl="file://$PROJECT_DIR$/오브젝트/lkdcode/lkdcode.iml" filepath="$PROJECT_DIR$/오브젝트/lkdcode/lkdcode.iml" />
     </modules>
